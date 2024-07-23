@@ -1,0 +1,8 @@
+opencv-python
+cvzone
+mediapipe
+numpy
+setuptools-rust
+autopy
+comtypes
+pycaw
