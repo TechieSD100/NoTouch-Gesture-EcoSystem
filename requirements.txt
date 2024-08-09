@@ -6,3 +6,5 @@ setuptools-rust
 autopy
 comtypes
 pycaw
+google-generativeai
+streamlit
